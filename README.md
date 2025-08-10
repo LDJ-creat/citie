@@ -1,2 +1,2 @@
-# citie
-inspired by  https://github.com/Solidaodev/Vazio.git
+# magnet
+Inspired by  https://github.com/Solidaodev/Vazio.git
